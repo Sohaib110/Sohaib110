@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
 <h3 align="center">React JS Developer || Python || MERN Stack Enthusiast || Frontend Developer @Fiverr</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/123618118?s=400&u=cfc290b8e6687c0bf0af1ccdd9027df6eddcbe35&v=4" alt="Sohaib110" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/123618118?s=400&u=cfc290b8e6687c0bf0af1ccdd9027df6eddcbe35&v=4" alt="Sohaib110" /> </p>
 
 - 🔭 I’m currently working on **Website Development**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/muhammad-sohaib-465552263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsheenghuman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-sohaib-465552263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsheenghuman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
