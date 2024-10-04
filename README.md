@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
 <h3 align="center">React JS Developer || Python || MERN Stack Enthusiast || Frontend Developer @Fiverr</h3>
 
-<p align="left"> <img src="Defence.png" alt="Sohaib110" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/123618118?s=400&u=cfc290b8e6687c0bf0af1ccdd9027df6eddcbe35&v=4" alt="Sohaib110" /> </p>
 
 - 🔭 I’m currently working on **Website Development**
 
