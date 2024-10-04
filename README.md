@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 📝 I regularly Post my Projects on [linkedin.com/in/muhammad-sohaib-465552263](linkedin.com/in/muhammad-sohaib-465552263)
+- 📝 I regularly Post my Projects on [linkedin.com/in/muhammad-sohaib-](linkedin.com/in/muhammad-sohaib-465552263)
 
 - 💬 Ask me about **React JS ,Python, C++**
 
