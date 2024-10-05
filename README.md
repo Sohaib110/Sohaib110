@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there! I'm Muhammad Sohaib, a passionate developer and Computer Science student on a journey to explore the vast world of technology. My expertise lies in HTML, CSS, JavaScript, and the MERN stack, where I love crafting beautiful and efficient web applications. But my journey doesn't end there – I'm constantly seeking to broaden my horizons by diving into new technologies and methodologies.<br><br>💡 With a thirst for knowledge, I'm dedicated to continuous learning, currently sharpening my skills in Data Structures and Algorithms to become a more well-rounded developer. I firmly believe that understanding the fundamentals is key to mastering any craft.<br><br>💻 Beyond web development, I also wield the power of Python, leveraging its versatility to solve problems and streamline processes. Python is my trusted companion in the realm of software development.<br><br>🚀 As I navigate through my academic and professional journey, I strive to make meaningful contributions to the tech community while fostering a spirit of collaboration and innovation. Join me as we embark on this exciting adventure of learning, creating, and pushing the boundaries of what's possible in the world of technology.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sohaib-465552263](https://linkedin.com/in/muhammad-sohaib-465552263)
