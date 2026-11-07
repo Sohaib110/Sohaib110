@@ -62,6 +62,15 @@ that just looks done in a demo.
 
 <br/>
 
+### 🚀 Currently
+
+- 🔧 Shipping a cross-platform coupon-automation product — Chrome extension + iOS/Android app +
+  web dashboard, all sharing one licensing/entitlement backend.
+- 📱 Wiring native StoreKit & Play Billing in-app purchases directly into React Native.
+- 🧠 Open to full-stack or mobile contract work — see the LinkedIn badge above.
+
+<br/>
+
 ### 🎯 The kind of problems I like
 
 - **Payments that have to be right the first time** — subscription billing, webhook idempotency,
@@ -78,15 +87,26 @@ that just looks done in a demo.
 
 ### 📊 GitHub Stats
 
+> Self-hosted on my own Vercel account — the public shared instances of these tools get
+> rate-limited constantly, so these are forks deployed under `Sohaib110` instead.
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohaib110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib110&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-iota-brown-25.vercel.app/api?username=Sohaib110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats-iota-brown-25.vercel.app/api/top-langs/?username=Sohaib110&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=Sohaib110&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-iota-tan.vercel.app/?user=Sohaib110&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<br/>
+
+### 📈 Activity graph
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph-khaki-beta.vercel.app/graph?username=Sohaib110&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <br/>
